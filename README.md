@@ -12,8 +12,7 @@ Este repositorio muestra los mapas conceptuales, proyectos y trabajos desarrolla
   
 * **Descripción:** Durante esta semana se desarrollaron conceptos clave de las ciencias de datos, algoritmos, aplicaciones y la historia de la ciencia de datos.
 * **Vista Previa:**
-  ![Mapa Conceptual Semana 1](semana-01/ciencia-de-datos-mapa1.png)
-
+![Mapa conceptual de la semana 1](https://github.com/katherinerojassaborio/Assets/blob/main/ciencias-de-datos/fundamentos-datos-semana1.png)
 ---
 </details>
 
