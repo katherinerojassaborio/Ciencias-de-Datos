@@ -16,3 +16,12 @@ Este repositorio muestra los mapas conceptuales, proyectos y trabajos desarrolla
 ---
 </details>
 
+<details open>
+  
+<summary><b>Semana 2: Fundamentos de Ciencias de Datos</b></summary>
+<br>
+  
+* **Descripción:** Durante esta semana se desarrolló un dashboard para demostrar el comportamiento de las ventas de un supermercado en la GAM durante 1 año.
+![Dashboard](https://github.com/katherinerojassaborio/Ciencias-de-Datos/blob/main/Semana%202/dashboard_supermercado.png)
+---
+</details>
