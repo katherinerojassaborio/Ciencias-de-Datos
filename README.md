@@ -27,6 +27,7 @@ Este repositorio muestra los mapas conceptuales, proyectos y trabajos desarrolla
   
 * **Descripción:** Esta semana se desarrolló un análisis de datos descriptivo y se trataron temas como el formato de datos, la ética y gobernanza de los datos y el ciclo de vida de los datos. 
 * **Vista Previa:** Durante esta semana se desarrolló un dashboard para demostrar el comportamiento de las ventas de un supermercado en la GAM durante 1 año.
+  Este dashboard es de mi autoría.
   
 ![Dashboard](https://github.com/katherinerojassaborio/Ciencias-de-Datos/blob/main/Semana%202/dashboard_supermercado.png)
 ---
