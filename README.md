@@ -48,7 +48,11 @@ Entre los principales hallazgos se encuentran:
 
 ---
 </details>
+</details>
 
+## MÓDULO 2. Manejo y Preparación de Datos
+<details open>
+<summary><b>Contenido del módulo 2</b></summary>
 <details open>
   
 <summary><b>Semana 3: Manejo y Preparación de Datos</b></summary>
