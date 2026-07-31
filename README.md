@@ -67,10 +67,10 @@ Entre los principales hallazgos se encuentran:
 </p>
 
 ---
-</details
+</details>
 <details open>
   
-<summary><b>Semanas 4 y 5: Evidencias de Clase</b></summary>
+<summary><b>Semanas 4 y 5: Manejo y Preparación de Datos</b></summary>
 <br>
   
 * **Descripción:** Durante las semanas 4 y 5 se desarrollaron diferentes consultas en SQL y se comenzó a utilizar un Jupyter Notebook como introducción a Python, así como el uso de pandas para el análisis de datos.
@@ -91,7 +91,7 @@ También se completaron juegos de SQL como parte del fortalecimiento del aprendi
 
 * La semana 5 abarcó contenido diverso. Se continuó con la exploración de la base de datos de la jardinería para concretar funciones de agregación, filtros y vistas. Por otra parte, se comenzó a trabajar en la herramienta Google Colab (Jupyter Notebook) para el aprendizaje de Python y la introducción al análisis de datos en Python.
 
----
+
 ---
 
 # Proyecto Final del Módulo 2: Sistema de Matrículas Universitarias
@@ -114,7 +114,7 @@ Con la base llena de registros, se aplicaron múltiples consultas SQL vistas en 
 
 - ¿Cuántos estudiantes hay matriculados por asignatura?
 - ¿Cuántos estudiantes tienen pagos pendientes?
-- ¿Cuantos estudiantes de San José estudian psicología?
+- ¿Cuántos estudiantes de San José estudian psicología?
 - ¿Qué profesores tienen mayor carga académica según la cantidad de materias asignadas?
 - ¿Cuál es el horario completo de clases de un periodo, cruzando asignatura, grupo, profesor y bloque horario?
 
