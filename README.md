@@ -63,5 +63,48 @@ Entre los principales hallazgos se encuentran:
   
 ![Modelo Entidad-Relación](https://github.com/katherinerojassaborio/Ciencias-de-Datos/blob/main/Semana-3/Ejemplo2_diagrama.drawio.png)
 ---
+</details
+<details open>
+  
+<summary><b>Semana 4 y 5: Evidencias de Clase</b></summary>
+<br>
+  
+* **Descripción:** Durante las semanas 4 y 5 se desarrollaron diferentes consultas en SQL y se comenzó a utilizar un Jupyter Notebook como introducción a Python, así como el uso de pandas para el análisis de datos.
+* **Vista Previa:**
+  
+
+---
+---
+
+# Proyecto Final del Módulo 2: Sistema de Matrículas Universitarias
+
+Diseño y construcción de una base de datos relacional para el proceso de matrícula de una universidad, desde el modelado conceptual hasta la exploración de los datos mediante consultas de negocio.
+
+## Modelado y Diseño
+
+El primer paso fue diseñar un modelo Entidad-Relación, identificando 11 entidades (carrera, estudiante, profesores, asignaturas, horarios, periodo, matrícula, finanzas, cátedra, grupos y detalle de matrícula) y sus relaciones, utilizando las tablas intermedias como cátedra, grupos o detalle de matrícula para evitar redundancias y mantener la integridad de los datos. El diagrama permitió anticipar dependencias antes de elaborar el script de SQL.
+
+![Modelo Entidad-Relación del Proyecto](https://github.com/katherinerojassaborio/Ciencias-de-Datos/blob/main/Proyecto-Final-Modulo-2/modelo-entidad-relacion.png)
+
+## Base de Datos
+
+Se construyó la base de datos en SQL Server aplicando normalización hasta 2FN completa y 3FN parcial, con llaves foráneas e integridad referencial. Se generaron más de 800 registros coherentes entre sí — 150 estudiantes, 10 carreras, 70 asignaturas y su red completa de matrículas, pagos, cátedras y horarios — respetando reglas de negocio reales, como que un estudiante solo se matricule en asignaturas que no tengan superposición horaria.
+
+## Exploración de Datos
+
+Con la base llena de registros, se aplicaron múltiples consultas SQL vistas en el curso (y complementadas con conocimientos avanzados previos) para responder preguntas de negocio reales sobre el sistema, entre ellas:
+
+- ¿Cuántos estudiantes hay matriculados por asignatura?
+- ¿Cuántos estudiantes tienen pagos pendientes?
+- ¿Cuantos estudiantes de San José estudian psicología?
+- ¿Qué profesores tienen mayor carga académica según la cantidad de materias asignadas?
+- ¿Cuál es el horario completo de clases de un periodo, cruzando asignatura, grupo, profesor y bloque horario?
+
+Se crearon vistas reutilizables (`estudiantes_pago`, `horario_clases`, `cant_estudiantes_cursos`, `asignatura_por_carrera`) para que esta información esté disponible sin repetir los `JOIN` en cada consulta, pensando en un caso de uso real de personal administrativo consultando el sistema.
+
+**Herramientas:** SQL Server Management Studio · draw.io (modelado E-R)
+
+---
 </details>
+
 </details>
