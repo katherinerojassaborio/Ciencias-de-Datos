@@ -43,8 +43,10 @@ Entre los principales hallazgos se encuentran:
 - Aplicar una estrategia promocional durante el mes de diciembre con el objetivo de informar a los consumidores que existen descuentos durante toda la semana para conseguir productos relacionados a la fiesta estacional, con el fin de explorar la iniciativa para conseguir un número menor de productos durante toda la semana, en lugar de que implique una sola compra voluminosa. Estos descuentos se aplican a artículos como carne para la parrilla, cervezas, carbón, snacks, galletas navideñas, licores y bebidas, durante ciertos días de la semana.
 - Implementar un sistema de descuentos personalizados en las cajas según el tipo de productos que los clientes adquieren.
 
+<p align="center">
+  <img src="https://github.com/katherinerojassaborio/Ciencias-de-Datos/blob/main/Semana%202/dashboard_supermercado.png?raw=true" width="700">
+</p>
 
-![Dashboard](https://github.com/katherinerojassaborio/Ciencias-de-Datos/blob/main/Semana%202/dashboard_supermercado.png)
 
 ---
 </details>
@@ -60,18 +62,34 @@ Entre los principales hallazgos se encuentran:
   
 * **Descripción:** Durante esta semana se desarrollaron temas como el fundamento de las bases de datos, el modelo entidad-relación y la creación de queries básicos en SQL para la creación e inserción de datos en bases de datos y sus tablas. 
 * **Vista Previa:**
-  
-![Modelo Entidad-Relación](https://github.com/katherinerojassaborio/Ciencias-de-Datos/blob/main/Semana-3/Ejemplo2_diagrama.drawio.png)
+<p align="center">
+  <img src="https://github.com/katherinerojassaborio/Ciencias-de-Datos/blob/main/Semana-3/Ejemplo2_diagrama.drawio.png?raw=true" width="500">
+</p>
+
 ---
 </details
 <details open>
   
-<summary><b>Semana 4 y 5: Evidencias de Clase</b></summary>
+<summary><b>Semanas 4 y 5: Evidencias de Clase</b></summary>
 <br>
   
 * **Descripción:** Durante las semanas 4 y 5 se desarrollaron diferentes consultas en SQL y se comenzó a utilizar un Jupyter Notebook como introducción a Python, así como el uso de pandas para el análisis de datos.
+En la semana 4 no se solicitó subir evidencias de clase, pero se trabajó en VBA en Excel para crear un formulario tras la limpieza general de una base de datos de motos. También se comenzó a trabajar en la base de datos de una jardinería, creando la base de datos, insertando registros y haciendo las primeras consultas con operadores lógicos.
 * **Vista Previa:**
-  
+<p align="center">
+<img src="https://github.com/katherinerojassaborio/Ciencias-de-Datos/blob/main/Semanas-4-y-5/formulario-vba.png?raw=true" width="600">
+</p>
+
+También se completaron juegos de SQL como parte del fortalecimiento del aprendizaje.
+* **Vista Previa:**
+<p align="center">
+  <img src="https://github.com/katherinerojassaborio/Assets/blob/main/ciencias-de-datos/certificate_sql_island.png?raw=true" width="700">
+  <img src="https://github.com/katherinerojassaborio/Assets/blob/main/ciencias-de-datos/queries_murder_mystery.png?raw=true" width="400">
+  <img src="https://github.com/katherinerojassaborio/Assets/blob/main/ciencias-de-datos/final_murder_mystery.png?raw=true" width="400">
+</p>
+
+
+* La semana 5 abarcó contenido diverso. Se continuó con la exploración de la base de datos de la jardinería para concretar funciones de agregación, filtros y vistas. Por otra parte, se comenzó a trabajar en la herramienta Google Colab (Jupyter Notebook) para el aprendizaje de Python y la introducción al análisis de datos en Python.
 
 ---
 ---
