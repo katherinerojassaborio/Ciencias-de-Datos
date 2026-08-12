@@ -188,10 +188,15 @@ Existe una correlación positiva muy fuerte entre las visitas mensuales y el mon
 
 
 <p align="center">
-<img src="https://github.com/katherinerojassaborio/Assets/blob/main/ciencias-de-datos/Analisis_Correlacion_Comercios.png?raw=true" width="400">
+<img src="https://github.com/katherinerojassaborio/Assets/blob/main/ciencias-de-datos/Boxplot_Gastos.png?raw=true" width="400">
+<img src="https://github.com/katherinerojassaborio/Assets/blob/main/ciencias-de-datos/Barras_Gastos.png?raw=true" width="400">
+  
 </p> 
 
 La mayoría de los gastos se concentran en un rango delimitado entre los $30.25 (Límite Inferior) y $68.25 (Límite Superior). El diagrama identifica dos valores atípicos (outliers), los cuales son un gasto bajo de $5 y un gasto alto de $310 que se distorsiona respecto al patrón general.
+
+Resumen teórico:
+  ![Mapa conceptual de la semana 7](https://github.com/katherinerojassaborio/Assets/blob/main/ciencias-de-datos/Mapa-EDA.png)
 
 
 ---
