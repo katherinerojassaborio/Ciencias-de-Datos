@@ -184,7 +184,7 @@ El patrón estacional con una alza en Q4 suele ser impulsado por el cobro de bon
 <img src="https://github.com/katherinerojassaborio/Assets/blob/main/ciencias-de-datos/Analisis_Correlacion_Comercios.png?raw=true" width="400">
 </p> 
 
-Existe una correlación positiva muy fuerte entre las visitas mensuales y el monto del pedido. Esto demuestra una relación lineal directa y altamente predecible, donde a mayor frecuencia de visitas se genera un incremento proporcional en el valor de la compra.
+Existe una correlación positiva muy fuerte entre las visitas mensuales y el monto del pedido. Esto demuestra una relación lineal directa y highly predecible, donde a mayor frecuencia de visitas se genera un incremento proporcional en el valor de la compra.
 
 
 <p align="center">
@@ -198,8 +198,83 @@ La mayoría de los gastos se concentran en un rango delimitado entre los $30.25 
 Resumen teórico:
   ![Mapa conceptual de la semana 7](https://github.com/katherinerojassaborio/Assets/blob/main/ciencias-de-datos/Mapa-EDA.png)
 
+---
+  </details>
+
+  <details open>
+  <summary><b>Semana 8: Análisis Exploratorio de Datos</b></summary>
+  <br>
+
+  * **Descripción:** Durante esta semana se abordaron conceptos del Storytelling para el análisis de datos. También se desarrollaron diversos ejercicios estadísticos que contemplaron conceptos como cuartiles, RIC, valores atípicos, boxplots, coeficientes de variación, planteamiento de hipótesis, niveles de significancia, valor p, pruebas T y ANOVA.
+  * **Vista Previa:**
+<p align="center">
+
+<img src="https://github.com/katherinerojassaborio/Ciencias-de-Datos/blob/main/Semana-8/boxplot-caso.png" width="400">
+</p> 
+
+  ---
+  
+  </details>
+
+  ### Proyecto Final del Módulo 3: Manejo de Datos (EDA)
+
+### 1. Resumen y Alcance
+Desarrollo de una herramienta  en Python enfocada en el procesamiento, limpieza profunda y análisis exploratorio de un conjunto de datos de ventas de productos tecnológicos con más de 1,100 registros. El proyecto fue diseñado bajo principios de modularidad en funciones y parametrización explícita.
+
+#### Competencias Técnicas Demostradas:
+* **Manipulación Avanzada de Datos (Pandas & NumPy):** Carga, filtrado, creación de columnas calculadas (Facturación Total), agregaciones agrupadas por múltiples dimensiones (producto, región, vendedor, tipo de cliente) y tratamiento estructurado de datos faltantes y duplicados.
+* **Pipeline de Limpieza y Estandarización:** Transformación explícita de tipos de datos, normalización de cadenas de texto (eliminación de espacios en blanco, tildes y caracteres especiales, unificación de caja) y formateo de fechas.
+* **Análisis Estadístico y Tratamiento de Outliers:** Identificación de anomalías mediante el Rango Intercuartílico (IQR), cálculo de métricas de tendencia central/dispersión y análisis de correlación entre variables cuantitativas.
+* **Visualización de Datos (Matplotlib & Seaborn):** Construcción de diagramas de caja (boxplots) para detección de valores atípicos, gráficos de barras para distribución de ventas y gráficos de dispersión para la evaluación de relaciones comerciales.
+* **Desarrollo de Menú:** Implementación de un menú de consola interactivo con paso explícito de parámetros, validación previa de archivos y un submenú para captura manual de transacciones con exportación a CSV.
 
 ---
+
+### 2. Business Insights
+
+* **Concentración de Ingresos por Categoría:** Dispositivos de alto valor unitario (Laptops y Smartphones) generan la mayor proporción del ingreso total, a pesar de registrar un volumen menor de unidades vendidas en comparación con los accesorios.
+* **Comportamiento del Cliente y Ticket Promedio:** Los clientes recurrentes/frecuentes presentan un ticket promedio significativamente superior al de los compradores ocasionales, evidenciando un mayor valor de vida del cliente (CLV).
+* **Distribución Geográfica de la Demanda:** Se identificó una disparidad clara en el volumen de ventas por región, detectando mercados consolidados de alta facturación y zonas con oportunidad de optimización comercial.
+* **Prevalencia de Métodos de Pago:** Las transacciones de mayor monto se realizan predominantemente mediante canales digitales y tarjetas de crédito, mientras que las compras de menor escala concentran el uso de débito o efectivo.
+
+---
+
+### 3. Conclusiones y Recomendaciones Estratégicas
+1. **Optimización del Product Mix:** Se recomienda implementar estrategias de venta cruzada y empaquetamiento de productos de alto valor con accesorios de alto margen para elevar el ticket promedio general.
+2. **Fidelización y Retención:** Centrar las iniciativas de marketing en los segmentos de clientes frecuentes, ya que impactan directamente en la estabilidad del flujo de caja.
+3. **Gobierno y Calidad de Datos:** La estandarización en la captura de datos elimina fricciones operativas y permite la automatización fluida de reportes gerenciales.
+
+  ---
+</details>
+
+---
+
+## 📈 MÓDULO 4. Visualización y Business Intelligence
+
+<details open>
+<summary><b>Contenido del Módulo 4</b></summary>
+<br>
+
+  <details open>
+  <summary><b>Semana 9: Visualización y Business Intelligence</b></summary>
+  <br>
+
+  * **Descripción:** Se estudiaron diversos conceptos acerca del desarrollo de Dashboards, como el uso correcto de colores y buenas prácticas de disposición. Se desarrolló la limpieza de datos a través de Power Query. 
+
+  ---
+  </details>
+
+  <details open>
+  <summary><b>Semana 10: Visualización y Business Intelligence</b></summary>
+  <br>
+
+  * **Descripción:** Esta semana estuvo dedicada al desarrollo de Dashboards y al estudio de indicadores empresariales (KPI), desde su cálculo hasta su interpretación.
+  * **Vista Previa:**
+<p align="center">
+
+<img src="https://github.com/katherinerojassaborio/Ciencias-de-Datos/blob/main/Semana-10/Dashboard-Quiz.png" width="600">
+</p> 
+  ---
   </details>
 
 </details>
